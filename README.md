@@ -123,9 +123,9 @@ You can download and explore the .pbix file directly from this repository.
 The dashboard is built for learning and demonstration purposes.
 
 ## Dashboard Preview 1
-![Uber Trip Dashboard](<img width="1436" height="859" alt="image" src="https://github.com/user-attachments/assets/e23a4849-2741-42ab-a907-4c4e5cc62d9f" />)
+![Uber Trip Dashboard](https://github.com/user-attachments/assets/e23a4849-2741-42ab-a907-4c4e5cc62d9f)
 ## Dashboard Preview 2
-![Uber Trip Dashboard](<img width="1435" height="856" alt="image" src="https://github.com/user-attachments/assets/c7df9135-ac09-4bbc-b082-8f3aa062f82d" />)
+![Uber Trip Dashboard](https://github.com/user-attachments/assets/c7df9135-ac09-4bbc-b082-8f3aa062f82d)
 ## Dashboard Preview 3
-![Uber Trip Dashboard](<img width="1422" height="849" alt="image" src="https://github.com/user-attachments/assets/9673de47-0b85-4145-9aa5-f16850af7f97" />)
+![Uber Trip Dashboard](https://github.com/user-attachments/assets/9673de47-0b85-4145-9aa5-f16850af7f97)
 
