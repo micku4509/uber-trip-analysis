@@ -7,7 +7,7 @@ It demonstrates the complete Power BI workflow — from data cleaning and modeli
 
 Objectives
 
-Understand total and average trip metrics (bookings, distance, and fare value)
+Understand total and average trip metrics (bookings, distance, and fare value) 
 
 Identify high-demand hours, days, and regions
 
